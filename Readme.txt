@@ -1,6 +1,4 @@
-Got it ✅ — here’s a clean **README.md** draft for the project:
 
----
 
 # 🚀 LinkedIn Profile Scraper + Career Advisor Chatbot
 
@@ -117,13 +115,3 @@ Stored in:
 
 * **CSV** → easy export.
 * **FAISS VectorDB** → enables chatbot retrieval.
-
----
-
-## ⚠️ Notes
-
-* Be careful with LinkedIn scraping — respect rate limits and terms of service.
-* Credentials (`config.json`) are stored **locally** only.
-* Gemini API costs may apply depending on your usage.
-
----
